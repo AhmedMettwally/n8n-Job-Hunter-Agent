@@ -12,8 +12,6 @@ An AI-powered automation workflow built with n8n that helps automate the job app
 
 ✅ Generates a tailored resume for each relevant job
 
-✅ Creates Google Docs automatically
-
 ✅ Saves application details to Google Sheets
 
 ---
